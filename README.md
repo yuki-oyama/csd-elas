@@ -4,7 +4,7 @@ Code for "A market-based efficient matching mechanism for crowdsourced delivery 
 ## Paper
 For more details, please see the paper
 
-Oyama, Y. and Akamatsu, T.  (2025) [A market-based efficient matching mechanism for crowdsourced delivery systems with demand/supply elasticities](https://doi.org/10.1016/j.trc.2025.105110). Transportation Research Part C: Emerging Technologies, 174: 105110. 
+Oyama, Y. and Akamatsu, T.  (2025) [A market-based efficient matching mechanism for crowdsourced delivery systems with demand/supply elasticities](https://www.sciencedirect.com/science/article/pii/S0968090X25001147). Transportation Research Part C: Emerging Technologies, 174: 105110. 
 
 If you find this code useful, please cite the paper:
 ```
